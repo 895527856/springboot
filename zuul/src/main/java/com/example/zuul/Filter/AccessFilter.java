@@ -7,7 +7,7 @@ public class AccessFilter  extends ZuulFilter {
     @Override
     public String filterType() {
         System.out.println("1");
-        return null;
+        return "pre";
     }
 
     @Override
