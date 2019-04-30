@@ -1,0 +1,19 @@
+
+server:
+  port: 80
+
+spring:
+  application:
+    name: getway
+eureka:
+  client:
+    serviceUrl:
+      #defaultZone: http://192.168.6.131:8780/eureka/
+      defaultZone: http://127.0.0.1:8787/eureka/
+zuul:
+  routes:
+    usercontroller:
+      path: /testboot/**
+      serviceId: usercontroller
+ # sensitive-headers: true
+  #add-host-header: true
