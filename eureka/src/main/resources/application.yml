@@ -1,0 +1,24 @@
+
+server:
+  port: 8787
+
+eureka:
+  #instance:
+    #hostname: 192.168.6.131
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      #defaultZone: http://192.168.6.131:8780/eureka/
+      defaultZone: http://127.0.0.1:8787/eureka/
+    healthcheck:
+      enabled: true	# 开启健康检查（需要spring-boot-starter-actuator依赖）
+    instance:
+      lease-expiration-duration-in-seconds: 30	# 续约更新时间间隔（默认30秒）
+      lease-renewal-interval-in-seconds: 10 # 续约到期时间（默认90秒）
+  server:
+    enable-self-preservation: false	# 设为false，关闭自我保护
+    eviction-interval-timer-in-ms: 4000
+spring:
+  application:
+    name: eurka-server

@@ -1,0 +1,26 @@
+server:
+  port: 8783
+#Eurekaʵ��������Ⱥ�и��������໥ʶ��
+spring:
+  application:
+    name: userservice
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password:
+  data:
+    solr:
+      host: http://127.0.0.1:8983/solr
+eureka:
+  #�ͻ���
+  client:
+    #ע�����ĵ�ַ
+    service-url:
+      defaultZone: http://127.0.0.1:8787/eureka/
+mybatis:
+  config-locations: classpath:mybatis/mybatis-config.xml
+  typeAliasesPackage: com.example.userprovider.dao
+  mapperLocations: classpath:mybatis/mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

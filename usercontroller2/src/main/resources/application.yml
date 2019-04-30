@@ -1,0 +1,11 @@
+server:
+  port: 8786
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.6.131:8780/eureka/
+
+spring:
+  application:
+    name: usercontroller
