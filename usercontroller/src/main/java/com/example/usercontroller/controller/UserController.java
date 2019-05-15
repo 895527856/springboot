@@ -6,16 +6,16 @@ import com.example.usercontroller.service.UserFeign;
 import entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
+import sun.java2d.pipe.SpanShapeRenderer;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 @RestController
 @EnableAutoConfiguration
@@ -66,7 +66,7 @@ public class UserController {
 
     @RequestMapping("/getUserList")
     @ResponseBody
-    public JSONObject grtUserList (HttpServletResponse response){System.out.println("sdfsadf");
+    public JSONObject grtUserList (HttpServletResponse response){
         JSONObject json = new JSONObject();
         Map<String,String> pmap = new HashMap<String,String>();
         pmap.put("name","liu");
@@ -120,4 +120,61 @@ public class UserController {
         return "d";
     }
 
+    @RequestMapping("/setContact")
+    @ResponseBody
+    public JSONObject setContact (HttpServletRequest request){
+        String name = request.getParameter("name");
+        String email = request.getParameter("email");
+        String text = request.getParameter("text");
+        Map map = new HashMap();
+        map.put("name",name);
+        map.put("email",email);
+        map.put("text",text);
+        SimpleDateFormat sd = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        String data = sd.format(new Date());
+        map.put("data",data);
+        JSONObject json = new JSONObject();
+        json = userFeign.setContact(map);
+        return json;
+    }
+    @RequestMapping("getArticale")
+    public List<Map> articale(){
+        JSONObject json = new JSONObject();
+        Map<String,String> map = new HashMap<String,String>();
+        List<Map> list = userFeign.getArticale(map);
+        return list;
+    }
+
+    @RequestMapping("getArtDei")
+    public JSONObject toArtDei( HttpServletRequest request){
+        JSONObject json = new JSONObject();
+        String id = request.getParameter("id");
+        Map<String,String> map = new HashMap<String,String>();
+        Map<String,String> map2 = new HashMap<String,String>();
+        map.put("id",id);
+        map2.put("artId",id);
+        List<Map> list = userFeign.getArticale(map);
+        List<Map<String,String>> plList = userFeign.getArtpl(map2);
+       json.put("artList",list);
+       json.put("plList",plList);
+        return json;
+    }
+
+    @RequestMapping("/setArtDei")
+    @ResponseBody
+    public JSONObject setArtDei (HttpServletRequest request){
+        String name = request.getParameter("name");
+        String text = request.getParameter("text");
+        String artId = request.getParameter("id");
+        Map map = new HashMap();
+        map.put("name",name);
+        map.put("text",text);
+        map.put("artId",artId);
+        SimpleDateFormat sd = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        String data = sd.format(new Date());
+        map.put("dateTime",data);
+        JSONObject json = new JSONObject();
+        json = userFeign.setArtpl(map);
+        return json;
+    }
 }

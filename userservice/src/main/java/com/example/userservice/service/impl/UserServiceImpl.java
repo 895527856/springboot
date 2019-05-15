@@ -2,6 +2,7 @@ package com.example.userservice.service.impl;
 
 
 import com.alibaba.fastjson.JSONObject;
+import com.example.userservice.dao.ContectMapping;
 import com.example.userservice.dao.UserMapping;
 import entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,9 +11,8 @@ import service.RedisService;
 import service.UserService;
 
 import javax.annotation.Resource;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 @Service
 public class UserServiceImpl implements UserService {
@@ -21,7 +21,8 @@ public class UserServiceImpl implements UserService {
     private UserMapping userMapping;
     @Autowired
     private RedisService redisService;
-
+    @Autowired(required=false)
+    private ContectMapping contectMapping;
 
     @Override
     public User getUserById(int userId) {
@@ -78,13 +79,69 @@ public class UserServiceImpl implements UserService {
             List<User> list = userMapping.getUserList(map);
             json.put("data",list);
             json.put("code","1");
-            json.put("msg","查询成功");System.out.println("一一一一");
+            json.put("msg","查询成功");
             //Destination destination = new ActiveMQQueue("mytest.queue");
             //producer.sendMessage(destination,"查询所有用户成功");
 
         }catch(Exception e){
             json.put("code","-1");
             json.put("msg","查询失败");
+        }
+        return json;
+    }
+
+    @Override
+    public JSONObject setContact(Map<String, String> map) {
+        JSONObject json = new JSONObject();
+        try{
+            int num = contectMapping.setContact(map);
+            if (num>0){
+                json.put("code","1");
+                json.put("msg","查询成功");
+            }
+        }catch(Exception e){
+            json.put("code","-1");
+            json.put("msg","查询失败");
+        }
+        return json;
+    }
+
+    @Override
+    public List<Map<String,String>> getArticale(Map<String, String> map) {
+        List<Map<String,String>> list = new ArrayList();
+        try{
+             list = contectMapping.getArticale(map);
+
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        return list;
+    }
+
+    @Override
+    public List<Map<String,String>> getArtpl(Map<String, String> map) {
+        List<Map<String,String>> list = new ArrayList();
+        try{
+            list = contectMapping.getArtpl(map);
+
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        return list;
+    }
+
+    @Override
+    public JSONObject setArtpl(Map<String, String> map) {
+        JSONObject json = new JSONObject();
+        try{
+            int num = contectMapping.setArtpl(map);
+            if (num>0){
+                json.put("code","1");
+                json.put("msg","添加成功");
+            }
+        }catch(Exception e){
+            json.put("code","-1");
+            json.put("msg","添加失败");
         }
         return json;
     }

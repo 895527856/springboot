@@ -88,4 +88,19 @@ public class UserServiceImpl implements UserService {
         }
         return json;
     }
+    @Override
+    public JSONObject setContact(Map<String, String> map) {
+        JSONObject json = new JSONObject();
+        try{
+            int num = userMapping.setContact(map);
+            if (num>0){
+                json.put("code","1");
+                json.put("msg","查询成功");
+            }
+        }catch(Exception e){
+            json.put("code","-1");
+            json.put("msg","查询失败");
+        }
+        return json;
+    }
 }

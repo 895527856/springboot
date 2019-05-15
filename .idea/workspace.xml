@@ -1,7 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="common:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b542850-4b14-4a47-8cd6-dd385a26fe5f" name="Default Changelist" comment="" />
+    <list default="true" id="3b542850-4b14-4a47-8cd6-dd385a26fe5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/common_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/usercontroller_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/userservice_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/zuul_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/entity/Img.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/entity/conTact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/player.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/swipebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/camera-icons/camera-icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/camera-icons/camera-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/camera-icons/camera-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/camera-icons/camera-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/codropsicons/codropsicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/codropsicons/codropsicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/codropsicons/codropsicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/codropsicons/codropsicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/codropsicons/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/nav-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/p8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/player.seeking.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/sc-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/se.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/images/top-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/album.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/dummies/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/dummies/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/dummies/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/dummies/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/collage/thumbs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/original/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/20190505173727.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/20190505173809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/2314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs_dummies/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/garden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/jquery.swipebox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/modernizr-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/player_database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/playlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/agency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/cbpAnimatedHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/jquery-2.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/owl-carousel/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/archive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/love/love.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/resume/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/ContectMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/ContectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usercontroller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usercontroller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java" beforeDir="false" afterPath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/dao/UserMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/dao/UserMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -19,6 +238,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -40,10 +262,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="323" column="40" lean-forward="true" selection-start-line="323" selection-start-column="40" selection-end-line="323" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
+                <element signature="e#5#11#0" expanded="true" />
+                <element signature="e#11#17#0" expanded="true" />
+                <element signature="e#17#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-393">
+              <caret line="63" column="56" lean-forward="true" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/love/love.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -51,85 +313,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="237">
+              <caret line="176" column="37" selection-start-line="176" selection-start-column="34" selection-end-line="176" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2153#2168#0" expanded="true" />
+                <element signature="e#5070#5085#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/ZuulApplication.java">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usercontroller/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="301">
+              <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,10 +336,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/pom.xml">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/ContectMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="366">
+              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +382,28 @@
     <findStrings>
       <find>my</find>
       <find>select id,name,age,sex,password from t_user where 1=1 and name = ?</find>
+      <find>filter</find>
+      <find>http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=</find>
+      <find>b-line</find>
+      <find>b-link-stripe</find>
+      <find>b-animate</find>
+      <find>slide</find>
+      <find>b-from-left</find>
+      <find>b-animate-go</find>
+      <find>swipebox</find>
+      <find>messages</find>
+      <find>about</find>
+      <find>http://127.0.0.1:8782</find>
+      <find>box-item</find>
+      <find>java</find>
+      <find>just</find>
+      <find>getArtpl</find>
+      <find>EMRAH</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>/usercontroller</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,25 +411,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" />
-        <option value="$PROJECT_DIR$/userprovider/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/userprovider/src/main/java/com/example/userprovider/UserproviderApplication.java" />
-        <option value="$PROJECT_DIR$/userprovider/pom.xml" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/example/common/entity/User.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/example/common/hh/User.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/example/common/User.java" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/redis/RedisServiceImpl.java" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/service/UserService.java" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/UserController.java" />
-        <option value="$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/UserserviceApplication.java" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java" />
-        <option value="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java" />
         <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/UsercontrollerApplication.java" />
         <option value="$PROJECT_DIR$/eureka/pom.xml" />
         <option value="$PROJECT_DIR$/getway/pom.xml" />
@@ -202,15 +426,42 @@
         <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/other/Component.java" />
         <option value="$PROJECT_DIR$/usercontroller2/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java" />
-        <option value="$PROJECT_DIR$/usercontroller/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/config/GetWayConfig.java" />
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/jquery.js" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/garden.js" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/functions.js" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/usercontroller/pom.xml" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/swipebox.css" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style.css" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/css/index.css" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/resume/resume.html" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/static/js/index.js" />
+        <option value="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/dao/UserMapping.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/entity/conTact.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/entity/Img.java" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index.html" />
+        <option value="$PROJECT_DIR$/common/src/main/java/service/UserService.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/ContectMapping.java" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/contact.html" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/index.html" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/ContectMapper.xml" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/single.html" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/love/love.html" />
+        <option value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html" />
       </list>
     </option>
   </component>
@@ -226,25 +477,58 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usercontroller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="usercontroller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="userservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="userservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="25" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,11 +536,116 @@
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="love" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="usercontroller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,30 +658,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\img\thumbs" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\templates\love" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\js" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entity" />
+      <recent name="com.example.userservice.dao" />
       <recent name="com.example.userservice.controller" />
       <recent name="com.example.usercontroller" />
       <recent name="com.example.common.entity" />
-      <recent name="com.example.userservice.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot" />
-      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\common\src\main\java" />
-      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\userservice\src\main\java\com\example\userservice" />
-      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\userservice\src\main\resources" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\templates\articale" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\wenzhang" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\css" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\images" />
+      <recent name="C:\Users\201807\Downloads\boot-dubbo-demo-master\springboot\usercontroller\src\main\resources\static\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,13 +727,6 @@
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="getway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.getway.GetwayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -395,7 +784,6 @@
       <item itemvalue="Spring Boot.UserserviceApplication" />
       <item itemvalue="Spring Boot.UsercontrollerApplication" />
       <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Spring Boot.GetwayApplication" />
       <item itemvalue="Spring Boot.ZuulApplication" />
       <item itemvalue="Spring Boot.UserserviceApplication (1)" />
       <item itemvalue="Spring Boot.UsercontrollerApplication (1)" />
@@ -427,7 +815,23 @@
       <workItem from="1555893230996" duration="6936000" />
       <workItem from="1556075613040" duration="1416000" />
       <workItem from="1556530532954" duration="696000" />
-      <workItem from="1556590610943" duration="12453000" />
+      <workItem from="1556590610943" duration="18428000" />
+      <workItem from="1557017181740" duration="3753000" />
+      <workItem from="1557027298374" duration="3019000" />
+      <workItem from="1557036547528" duration="597000" />
+      <workItem from="1557040816656" duration="3558000" />
+      <workItem from="1557044396786" duration="3896000" />
+      <workItem from="1557048327703" duration="2037000" />
+      <workItem from="1557103256381" duration="17200000" />
+      <workItem from="1557188963818" duration="13947000" />
+      <workItem from="1557219899228" duration="3400000" />
+      <workItem from="1557223339923" duration="558000" />
+      <workItem from="1557276790929" duration="2061000" />
+      <workItem from="1557278864365" duration="7076000" />
+      <workItem from="1557303544904" duration="2731000" />
+      <workItem from="1557361866008" duration="15485000" />
+      <workItem from="1557388864312" duration="7410000" />
+      <workItem from="1557448813169" duration="16901000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1556611963892</created>
@@ -443,11 +847,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556612220379</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1556612675095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556612675095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1a">
+      <created>1556613344551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556613344551</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76790000" />
+    <option name="totallyTimeSpent" value="186394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,7 +879,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17716116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19263607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,20 +888,21 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.32975295" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32975295" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32903227" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010672" side_tool="true" weight="0.39957035" />
-      <window_info anchor="bottom" id="Spring" order="12" weight="0.32975295" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32975295" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32903227" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32903227" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32975295" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -501,223 +920,139 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="1a" />
+    <option name="LAST_COMMIT_MESSAGE" value="1a" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/css/swipebox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="278">
+          <caret line="214" column="1" lean-forward="true" selection-start-line="214" selection-start-column="1" selection-end-line="214" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/service/ActivemqService.java">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="462">
+          <caret line="5780" selection-start-line="5780" selection-end-line="5780" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/redis/RedisServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/service/RedisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice3/userservice3.iml" />
-    <entry file="file://$PROJECT_DIR$/userservice2/userservice2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/dao/UserMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/controller/userController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/UserserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/UserserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/UsercontrollerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getway/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/getway/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/getway/src/main/java/com/example/getway/GetwayApplication.java" />
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/service/solrService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="220" column="44" selection-start-line="220" selection-start-column="44" selection-end-line="220" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/pom.xml">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="279">
+          <caret line="10292" column="22" lean-forward="true" selection-start-line="10292" selection-start-column="22" selection-end-line="10292" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/solrController.java">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="623">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/src/test/java/com/example/usercontroller/UsercontrollerApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="172">
+          <caret line="292" column="30" lean-forward="true" selection-start-line="292" selection-start-column="30" selection-end-line="292" selection-end-column="30" />
+          <folding>
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#35#41#0" expanded="true" />
+            <element signature="e#73#79#0" expanded="true" />
+            <element signature="e#71#77#0" expanded="true" />
+            <element signature="e#72#78#0" expanded="true" />
+            <element signature="e#62#68#0" expanded="true" />
+            <element signature="e#64#70#0" expanded="true" />
+            <element signature="e#67#73#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#28#34#1" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -728,168 +1063,367 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java">
+    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/dao/UserMapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="163">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller2/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="94">
+          <caret line="94" column="38" lean-forward="true" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice2/src/main/java/com/example/userservice/controller/solrController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller2/src/main/java/com/example/usercontroller/UsercontrollerApplication.java">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/UserserviceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller2/src/main/java/com/example/usercontroller/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/UserMapping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="26" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller2/src/main/java/com/example/usercontroller/service/UserFeign.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/ReflectiveFeign.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        <state relative-caret-position="177">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.17/tomcat-embed-core-9.0.17.jar!/org/apache/catalina/connector/OutputBuffer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1361">
-          <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
+        <state relative-caret-position="108">
+          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.17/tomcat-embed-websocket-9.0.17.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="348">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/filter/RequestContextFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.17/tomcat-embed-core-9.0.17.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="160">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/entity/conTact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.17/tomcat-embed-core-9.0.17.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8602">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/123.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/img/thumbs/2314.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/entity/Img.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/css/player.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/前端模板/jQuery黑色个性的侧边悬浮音乐播放器插件/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="115" column="16" selection-start-line="13" selection-start-column="8" selection-end-line="115" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2153#2168#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/ZuulApplication.java">
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="500" column="33" lean-forward="true" selection-start-line="500" selection-start-column="33" selection-end-line="500" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="391" column="19" selection-start-line="391" selection-start-column="19" selection-end-line="391" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="517" column="27" selection-start-line="517" selection-start-column="27" selection-end-line="517" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/photo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/static/wenzhang/font-awesome-4.4.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="407" column="7" selection-start-line="376" selection-start-column="4" selection-end-line="407" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/controller/userController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="109" column="56" lean-forward="true" selection-start-line="109" selection-start-column="56" selection-end-line="109" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/service/UserFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/dao/ContectMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/mybatis/mapper/ContectMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/htmlcontroller/UserHtmlController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="113" column="45" lean-forward="true" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/java/com/example/usercontroller/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="176" column="37" selection-start-line="176" selection-start-column="34" selection-end-line="176" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5070#5085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/articale/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="323" column="40" lean-forward="true" selection-start-line="323" selection-start-column="40" selection-end-line="323" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#!!top" expanded="true" />
+            <element signature="e#5#11#0" expanded="true" />
+            <element signature="e#11#17#0" expanded="true" />
+            <element signature="e#17#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/love/love.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/usercontroller/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usercontroller/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/config/GetWayConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="-393">
+          <caret line="63" column="56" lean-forward="true" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/example/zuul/Filter/AccessFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -899,7 +1433,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>eureka:jar</last-edited>
+          <last-edited>userservice:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -947,12 +1481,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>usercontroller2</last-edited>
+          <last-edited>eureka</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

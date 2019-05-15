@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 import java.util.Map;
 
 @Component
@@ -35,7 +36,15 @@ public interface UserFeign {
     @RequestMapping(value = "/getUserList")
     public JSONObject getUserList(Map<String, String> map);
 
+    @RequestMapping(value = "/setContact")
+    public JSONObject setContact(Map<String, String> map);
 
+    @RequestMapping(value = "/getArticale")
+    public List<Map> getArticale(Map<String, String> map);
 
+    @RequestMapping(value = "/getArtpl")
+    public List<Map<String,String>> getArtpl(Map<String, String> map);
 
+    @RequestMapping(value = "/setArtpl")
+    public JSONObject setArtpl(Map map);
 }

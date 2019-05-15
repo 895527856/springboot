@@ -21,4 +21,6 @@ public interface UserMapping {
     int updateByPrimaryKeySelective(User record);
 
     //int updateByPrimaryKey(User record);
+
+    int setContact(Map<String, String> map);
 }
